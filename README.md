@@ -1,6 +1,8 @@
 # svylorenz_r
 Lorenz curve Use svylorenz (convey) With (In) R Software
 
+https://www.youtube.com/watch?v=_DPU3OL2OE4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
